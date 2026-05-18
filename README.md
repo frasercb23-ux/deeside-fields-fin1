@@ -10,3 +10,4 @@ git commit -m "Initial site"
 git branch -M main
 git remote add origin https://github.com/YOURUSERNAME/deeside-fields-fin.git
 git push -u origin main
+![Uploading Gemini_Generated_Image_mogsf3mogsf3mogs.png…]()
